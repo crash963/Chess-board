@@ -1,0 +1,19 @@
+.row {
+  width: 24em;
+
+  display: flex;
+}
+
+.light,
+.dark {
+  width: 3em;
+  height: 3em;
+}
+
+.light {
+  background-color: #c2c2c2;
+}
+
+.dark {
+  background-color: #525252;
+}
